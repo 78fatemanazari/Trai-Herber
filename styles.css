@@ -1,0 +1,15 @@
+body{
+height: 100%;
+}
+
+.packaging{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.img-thumbnail{
+  width: 204px;
+  height: 247px;
+}
